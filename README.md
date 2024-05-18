@@ -1,0 +1,2 @@
+# RE2-AY8910/YMZ284
+ The functionally verified RE: Birth 2nd sound card highly refers to the AY-3-8910 schematic diagram of the PS98 project, especially the chip select decoding part and the crossover switching part (of course it also refers to RE1-AY89XX). The highlight of this project is that it supports PSG/SSG/SSGL at the same time. It is worth noting that YMZ284/294 has a built-in crossover but the volume is small, so the preamplification factor is different.
